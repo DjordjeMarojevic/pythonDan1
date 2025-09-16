@@ -1,0 +1,11 @@
+GTA 5;9.50;2013;Rockstar;Action Crime Adventure
+The Witcher 3;9.80;2015;CD Projekt;RPG Fantasy Adventure
+Minecraft;9.20;2011;Mojang;Sandbox Survival Adventure
+Counter-Strike;8.70;2000;Valve;Shooter Action
+League of Legends;8.50;2009;Riot Games;MOBA Strategy
+Elden Ring;9.70;2022;FromSoftware;RPG Fantasy Adventure
+Red Dead Redemption 2;9.80;2018;Rockstar;Action Western Adventure
+Super Mario Odyssey;9.60;2017;Nintendo;Platformer Adventure
+Overwatch;8.30;2016;Blizzard;Shooter Action
+Dark Souls 3;9.00;2016;FromSoftware;RPG Fantasy
+CS1.6;10.0;1998;ABC;Action
